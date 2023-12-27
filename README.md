@@ -1,4 +1,7 @@
 ### Hi there 👋
+## About Me
+Node.js enthusiast by day, problem solver by night 🌙. With a knack for dissecting complex challenges, I've honed my skills in developing robust APIs and scalable systems. I believe in the power of clean code and continuous learning—because in the ever-evolving tech landscape, there's always room to level up.
+
 
 <!--
 **abhishek-kumaraj/abhishek-kumaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
