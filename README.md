@@ -1,6 +1,15 @@
 ### Hi there 👋
 ## About Me
-Node.js enthusiast by day, problem solver by night 🌙. With a knack for dissecting complex challenges, I've honed my skills in developing robust APIs and scalable systems. I believe in the power of clean code and continuous learning—because in the ever-evolving tech landscape, there's always room to level up.
+I am a Full stack developer with a lot more interest in backend stuff. I loves exploring different different technologies and building applications.
+- 🔭 I’m currently working on my MovieMate-diary project
+
+## Skills
+- **Languages** - Javascript, Golang, java
+- **Front-end Tech** - HTML, CSS, Tailwind CSS, React
+- **Back-end Tech** - Node.js, Express
+- **Database** - MongoDb, postgreSQL
+- **Tools** - Git, Github, Postman, Docker
+  
 
 
 <!--
