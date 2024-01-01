@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## About Me
 I am a Full stack developer with a lot more interest in backend stuff. I loves exploring different different technologies and building applications.
-- 🔭 I’m currently working on my MovieMate-diary project
+- 🔭 I’m currently working on [MovieMate-diary project](https://github.com/abhishek-kumaraj/moviemate-diary)
 
 ## Skills
 - **Languages** - Javascript, Golang, java
